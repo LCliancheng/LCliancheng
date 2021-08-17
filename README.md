@@ -1,6 +1,6 @@
 - Hi, I’m Zhiyuan Xu
 - a student in Hangzhou, Zhejiang, China.
-- Interested in computer vision
+
 
 
 
