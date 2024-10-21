@@ -1,5 +1,4 @@
 - Hi, I’m Zhiyuan Xu
-- a student in Hangzhou, Zhejiang, China.
 
 
 
